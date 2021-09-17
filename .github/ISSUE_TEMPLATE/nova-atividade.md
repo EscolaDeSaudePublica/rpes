@@ -2,7 +2,7 @@
 name: Nova atividade
 about: Este é o modelo de novas issues
 title: ''
-labels: API, V1
+labels: ''
 assignees: ''
 
 ---
