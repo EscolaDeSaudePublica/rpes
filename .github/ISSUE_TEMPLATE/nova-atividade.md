@@ -9,9 +9,9 @@ assignees: ''
 
 # Objetivo
 
-**Eu como** _  
-**Quero** _  
-**Para que** _  
+**Eu como**  
+**Quero** 
+**Para que** 
 
 # Contexto
 ## O que originou
@@ -25,9 +25,9 @@ _
 
 # Critérios de aceitação
 
-- [ ] **Dado que** __não_esquecer_os_2_espaços_ao_fim_da_linha  
-**Quando** __não_esquecer_os_2_espaços_ao_fim_da_linha  
-**Então** _
+- [ ] **Dado que** não_esquecer_os_2_espaços_ao_fim_da_linha  
+**Quando** não_esquecer_os_2_espaços_ao_fim_da_linha  
+**Então**
 
 # Observações
 
